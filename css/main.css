@@ -63,6 +63,12 @@ h5 {
     font-size: 1.2em;
 }
 
+.expression .ex{
+	font-size: 1.2em;
+	display: block;
+	margin: 5px;
+}
+
 .finally .strategy {
     display: inline-block;
     margin: 10px 0;
